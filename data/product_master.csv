@@ -1,0 +1,171 @@
+product_id,product_name,category,brand,unit_size,mrp,purchase_price,margin_percent,shelf_life_days,movement_type
+1,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,47.91,42.31,11.69,180,Fast
+2,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,19.59,18.01,8.08,180,Slow
+3,GoldenCrunch Biscuits 100g,Biscuits,GoldenCrunch,100g,15.78,14.37,8.96,180,Medium
+4,DailyTreat Biscuits 50g,Biscuits,DailyTreat,50g,8.85,7.97,9.94,180,Medium
+5,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,39.46,36.1,8.51,180,Medium
+6,GoldenCrunch Biscuits 200g,Biscuits,GoldenCrunch,200g,12.43,11.17,10.11,180,Slow
+7,DailyTreat Biscuits 100g,Biscuits,DailyTreat,100g,48.4,42.73,11.72,180,Slow
+8,DailyTreat Biscuits 200g,Biscuits,DailyTreat,200g,14.05,12.75,9.25,180,Slow
+9,DailyTreat Biscuits 200g,Biscuits,DailyTreat,200g,21.8,19.27,11.6,180,Medium
+10,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,16.16,14.83,8.26,180,Fast
+11,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,29.93,26.83,10.35,180,Fast
+12,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,36.85,33.81,8.24,180,Slow
+13,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,43.68,40.06,8.28,180,Medium
+14,CrispBite Biscuits 100g,Biscuits,CrispBite,100g,35.1,31.99,8.86,180,Medium
+15,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,47.1,42.26,10.28,180,Fast
+16,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,40.31,35.78,11.23,180,Fast
+17,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,9.36,8.45,9.72,180,Medium
+18,GoldenCrunch Biscuits 100g,Biscuits,GoldenCrunch,100g,26.02,23.18,10.92,180,Slow
+19,DailyTreat Biscuits 200g,Biscuits,DailyTreat,200g,49.29,45.15,8.39,180,Medium
+20,GoldenCrunch Biscuits 200g,Biscuits,GoldenCrunch,200g,20.27,17.95,11.45,180,Medium
+21,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,13.56,12.23,9.79,180,Medium
+22,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,17.53,15.95,9.0,180,Medium
+23,CrispBite Biscuits 100g,Biscuits,CrispBite,100g,41.36,36.64,11.42,180,Medium
+24,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,34.35,30.86,10.16,180,Medium
+25,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,46.69,41.37,11.39,180,Medium
+26,CrispBite Biscuits 100g,Biscuits,CrispBite,100g,26.85,24.47,8.85,180,Fast
+27,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,12.41,11.42,8.01,180,Fast
+28,GoldenCrunch Biscuits 100g,Biscuits,GoldenCrunch,100g,46.69,41.49,11.14,180,Medium
+29,GoldenCrunch Biscuits 100g,Biscuits,GoldenCrunch,100g,36.35,32.38,10.92,180,Slow
+30,DailyTreat Biscuits 200g,Biscuits,DailyTreat,200g,37.33,34.11,8.62,180,Medium
+31,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,48.59,43.58,10.32,180,Fast
+32,DailyTreat Biscuits 50g,Biscuits,DailyTreat,50g,38.66,35.48,8.23,180,Medium
+33,DailyTreat Biscuits 100g,Biscuits,DailyTreat,100g,27.63,24.48,11.41,180,Medium
+34,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,48.24,44.23,8.32,180,Medium
+35,CrispBite Biscuits 50g,Biscuits,CrispBite,50g,31.78,28.38,10.7,180,Medium
+36,CrispBite Biscuits 100g,Biscuits,CrispBite,100g,10.39,9.19,11.56,180,Medium
+37,CrispBite Biscuits 200g,Biscuits,CrispBite,200g,31.75,28.42,10.48,180,Slow
+38,GoldenCrunch Biscuits 200g,Biscuits,GoldenCrunch,200g,31.27,28.11,10.09,180,Medium
+39,GoldenCrunch Biscuits 50g,Biscuits,GoldenCrunch,50g,35.14,31.89,9.26,180,Fast
+40,GoldenCrunch Biscuits 100g,Biscuits,GoldenCrunch,100g,10.89,9.74,10.58,180,Slow
+41,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,56.45,48.16,14.68,120,Slow
+42,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,41.06,35.8,12.81,120,Fast
+43,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,36.88,32.26,12.53,120,Slow
+44,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,54.04,46.26,14.4,120,Fast
+45,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,17.89,15.35,14.17,120,Slow
+46,TastyWave Snacks 60g,Snacks,TastyWave,60g,40.58,34.52,14.94,120,Slow
+47,TastyWave Snacks 150g,Snacks,TastyWave,150g,10.39,8.93,14.09,120,Medium
+48,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,15.18,13.0,14.39,120,Medium
+49,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,54.49,47.02,13.71,120,Medium
+50,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,24.09,21.43,11.05,120,Medium
+51,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,44.37,38.04,14.26,120,Medium
+52,TastyWave Snacks 60g,Snacks,TastyWave,60g,22.56,19.28,14.54,120,Slow
+53,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,41.71,35.81,14.15,120,Medium
+54,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,26.68,23.84,10.65,120,Medium
+55,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,47.06,41.06,12.76,120,Slow
+56,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,10.48,9.39,10.38,120,Slow
+57,TastyWave Snacks 30g,Snacks,TastyWave,30g,37.28,32.0,14.17,120,Fast
+58,TastyWave Snacks 150g,Snacks,TastyWave,150g,17.4,15.55,10.64,120,Slow
+59,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,54.95,47.27,13.98,120,Medium
+60,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,20.5,18.19,11.25,120,Medium
+61,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,49.01,41.94,14.42,120,Medium
+62,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,47.47,40.53,14.63,120,Slow
+63,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,58.81,50.55,14.05,120,Fast
+64,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,18.97,16.2,14.62,120,Medium
+65,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,53.2,45.73,14.05,120,Medium
+66,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,49.37,44.17,10.54,120,Slow
+67,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,21.12,18.15,14.08,120,Fast
+68,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,25.26,21.73,13.98,120,Medium
+69,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,11.18,9.95,10.97,120,Slow
+70,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,53.22,45.33,14.83,120,Medium
+71,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,42.07,37.02,12.0,120,Slow
+72,TastyWave Snacks 60g,Snacks,TastyWave,60g,56.96,50.93,10.58,120,Fast
+73,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,39.03,33.21,14.92,120,Medium
+74,CrunchyKing Snacks 30g,Snacks,CrunchyKing,30g,39.83,35.16,11.73,120,Slow
+75,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,40.31,35.25,12.56,120,Medium
+76,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,19.5,17.51,10.22,120,Slow
+77,SpiceMunch Snacks 30g,Snacks,SpiceMunch,30g,36.0,30.95,14.03,120,Slow
+78,TastyWave Snacks 150g,Snacks,TastyWave,150g,57.01,49.21,13.69,120,Slow
+79,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,31.56,26.91,14.74,120,Medium
+80,SpiceMunch Snacks 150g,Snacks,SpiceMunch,150g,25.7,22.04,14.24,120,Slow
+81,TastyWave Snacks 60g,Snacks,TastyWave,60g,35.36,30.65,13.33,120,Medium
+82,SpiceMunch Snacks 60g,Snacks,SpiceMunch,60g,44.86,39.13,12.77,120,Fast
+83,CrunchyKing Snacks 60g,Snacks,CrunchyKing,60g,43.25,38.1,11.9,120,Slow
+84,TastyWave Snacks 30g,Snacks,TastyWave,30g,40.78,36.09,11.5,120,Fast
+85,TastyWave Snacks 30g,Snacks,TastyWave,30g,25.19,22.41,11.05,120,Slow
+86,NaturePress Edible Oil 5L,Edible Oil,NaturePress,5L,175.11,163.92,6.39,365,Medium
+87,HealthGold Edible Oil 5L,Edible Oil,HealthGold,5L,117.78,110.22,6.42,365,Fast
+88,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,175.65,165.37,5.85,365,Medium
+89,NaturePress Edible Oil 5L,Edible Oil,NaturePress,5L,170.5,161.5,5.28,365,Slow
+90,PureDrop Edible Oil 5L,Edible Oil,PureDrop,5L,130.35,120.68,7.42,365,Medium
+91,PureDrop Edible Oil 500ml,Edible Oil,PureDrop,500ml,96.01,88.38,7.95,365,Medium
+92,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,149.2,137.77,7.66,365,Medium
+93,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,183.38,172.1,6.15,365,Slow
+94,HealthGold Edible Oil 500ml,Edible Oil,HealthGold,500ml,109.18,101.47,7.06,365,Medium
+95,PureDrop Edible Oil 1L,Edible Oil,PureDrop,1L,118.45,109.67,7.41,365,Medium
+96,NaturePress Edible Oil 5L,Edible Oil,NaturePress,5L,150.39,140.36,6.67,365,Fast
+97,PureDrop Edible Oil 1L,Edible Oil,PureDrop,1L,107.33,100.47,6.39,365,Medium
+98,NaturePress Edible Oil 5L,Edible Oil,NaturePress,5L,167.41,154.27,7.85,365,Medium
+99,HealthGold Edible Oil 5L,Edible Oil,HealthGold,5L,195.95,180.9,7.68,365,Medium
+100,HealthGold Edible Oil 5L,Edible Oil,HealthGold,5L,147.97,139.86,5.48,365,Slow
+101,HealthGold Edible Oil 1L,Edible Oil,HealthGold,1L,123.69,116.59,5.74,365,Slow
+102,NaturePress Edible Oil 1L,Edible Oil,NaturePress,1L,189.56,177.12,6.56,365,Fast
+103,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,125.7,119.13,5.23,365,Slow
+104,HealthGold Edible Oil 500ml,Edible Oil,HealthGold,500ml,125.32,117.85,5.96,365,Slow
+105,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,107.99,101.85,5.69,365,Slow
+106,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,181.83,172.39,5.19,365,Medium
+107,HealthGold Edible Oil 1L,Edible Oil,HealthGold,1L,160.54,150.51,6.25,365,Fast
+108,PureDrop Edible Oil 1L,Edible Oil,PureDrop,1L,140.63,130.35,7.31,365,Medium
+109,NaturePress Edible Oil 500ml,Edible Oil,NaturePress,500ml,201.38,186.68,7.3,365,Fast
+110,HealthGold Edible Oil 1L,Edible Oil,HealthGold,1L,90.77,85.27,6.06,365,Slow
+111,CleanAura Personal Care 180ml,Personal Care,CleanAura,180ml,106.12,87.15,17.88,730,Medium
+112,SilkTouch Personal Care 75g,Personal Care,SilkTouch,75g,98.12,84.21,14.18,730,Slow
+113,CleanAura Personal Care 75g,Personal Care,CleanAura,75g,82.22,67.95,17.35,730,Medium
+114,CleanAura Personal Care 250ml,Personal Care,CleanAura,250ml,46.41,39.11,15.74,730,Medium
+115,FreshGlow Personal Care 250ml,Personal Care,FreshGlow,250ml,105.46,85.15,19.26,730,Medium
+116,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,126.08,110.11,12.67,730,Medium
+117,CleanAura Personal Care 75g,Personal Care,CleanAura,75g,158.7,137.35,13.45,730,Medium
+118,CleanAura Personal Care 180ml,Personal Care,CleanAura,180ml,72.38,61.06,15.64,730,Medium
+119,CleanAura Personal Care 180ml,Personal Care,CleanAura,180ml,64.52,51.87,19.61,730,Medium
+120,CleanAura Personal Care 180ml,Personal Care,CleanAura,180ml,153.59,129.38,15.76,730,Medium
+121,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,28.33,22.77,19.62,730,Slow
+122,FreshGlow Personal Care 250ml,Personal Care,FreshGlow,250ml,30.98,24.89,19.66,730,Fast
+123,FreshGlow Personal Care 75g,Personal Care,FreshGlow,75g,171.94,148.57,13.59,730,Medium
+124,FreshGlow Personal Care 250ml,Personal Care,FreshGlow,250ml,44.38,38.61,13.01,730,Medium
+125,SilkTouch Personal Care 75g,Personal Care,SilkTouch,75g,110.24,95.09,13.74,730,Slow
+126,SilkTouch Personal Care 180ml,Personal Care,SilkTouch,180ml,142.7,123.66,13.34,730,Fast
+127,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,134.94,110.35,18.22,730,Medium
+128,FreshGlow Personal Care 180ml,Personal Care,FreshGlow,180ml,37.3,32.75,12.21,730,Medium
+129,CleanAura Personal Care 250ml,Personal Care,CleanAura,250ml,128.38,103.13,19.67,730,Fast
+130,CleanAura Personal Care 250ml,Personal Care,CleanAura,250ml,51.73,43.07,16.74,730,Medium
+131,SilkTouch Personal Care 75g,Personal Care,SilkTouch,75g,36.3,29.7,18.18,730,Medium
+132,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,148.88,121.53,18.37,730,Medium
+133,SilkTouch Personal Care 75g,Personal Care,SilkTouch,75g,75.55,63.89,15.43,730,Fast
+134,CleanAura Personal Care 75g,Personal Care,CleanAura,75g,100.95,86.08,14.73,730,Medium
+135,CleanAura Personal Care 180ml,Personal Care,CleanAura,180ml,36.89,29.63,19.69,730,Slow
+136,SilkTouch Personal Care 180ml,Personal Care,SilkTouch,180ml,133.17,112.56,15.48,730,Slow
+137,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,174.48,149.77,14.16,730,Medium
+138,SilkTouch Personal Care 180ml,Personal Care,SilkTouch,180ml,94.38,76.82,18.61,730,Slow
+139,SilkTouch Personal Care 180ml,Personal Care,SilkTouch,180ml,71.57,61.58,13.96,730,Medium
+140,FreshGlow Personal Care 180ml,Personal Care,FreshGlow,180ml,161.06,138.59,13.95,730,Slow
+141,CleanAura Personal Care 250ml,Personal Care,CleanAura,250ml,117.65,99.97,15.03,730,Medium
+142,FreshGlow Personal Care 180ml,Personal Care,FreshGlow,180ml,156.15,135.15,13.45,730,Slow
+143,FreshGlow Personal Care 180ml,Personal Care,FreshGlow,180ml,147.65,125.92,14.72,730,Medium
+144,SilkTouch Personal Care 250ml,Personal Care,SilkTouch,250ml,160.82,134.37,16.45,730,Fast
+145,SilkTouch Personal Care 75g,Personal Care,SilkTouch,75g,33.7,27.71,17.76,730,Medium
+146,FreshFizz Beverages 1L,Beverages,FreshFizz,1L,95.82,83.53,12.83,150,Medium
+147,NaturalBurst Beverages 1L,Beverages,NaturalBurst,1L,69.08,59.72,13.55,150,Medium
+148,CoolSip Beverages 500ml,Beverages,CoolSip,500ml,42.16,36.75,12.84,150,Medium
+149,FreshFizz Beverages 1L,Beverages,FreshFizz,1L,78.16,69.32,11.31,150,Slow
+150,NaturalBurst Beverages 500ml,Beverages,NaturalBurst,500ml,62.55,54.28,13.22,150,Medium
+151,FreshFizz Beverages 500ml,Beverages,FreshFizz,500ml,90.29,81.35,9.9,150,Slow
+152,FreshFizz Beverages 250ml,Beverages,FreshFizz,250ml,32.07,29.07,9.35,150,Slow
+153,CoolSip Beverages 1L,Beverages,CoolSip,1L,73.59,63.77,13.34,150,Slow
+154,CoolSip Beverages 250ml,Beverages,CoolSip,250ml,41.64,36.9,11.39,150,Medium
+155,NaturalBurst Beverages 1L,Beverages,NaturalBurst,1L,117.66,103.93,11.67,150,Medium
+156,FreshFizz Beverages 250ml,Beverages,FreshFizz,250ml,103.26,92.86,10.07,150,Fast
+157,FreshFizz Beverages 250ml,Beverages,FreshFizz,250ml,50.23,43.72,12.96,150,Fast
+158,CoolSip Beverages 500ml,Beverages,CoolSip,500ml,24.55,22.49,8.38,150,Fast
+159,FreshFizz Beverages 1L,Beverages,FreshFizz,1L,114.41,100.14,12.47,150,Medium
+160,FreshFizz Beverages 250ml,Beverages,FreshFizz,250ml,107.27,94.38,12.02,150,Slow
+161,FreshFizz Beverages 500ml,Beverages,FreshFizz,500ml,64.05,58.1,9.29,150,Fast
+162,CoolSip Beverages 500ml,Beverages,CoolSip,500ml,114.11,101.17,11.34,150,Slow
+163,CoolSip Beverages 500ml,Beverages,CoolSip,500ml,69.17,60.84,12.04,150,Fast
+164,NaturalBurst Beverages 250ml,Beverages,NaturalBurst,250ml,35.17,30.36,13.68,150,Medium
+165,FreshFizz Beverages 250ml,Beverages,FreshFizz,250ml,119.39,108.85,8.83,150,Medium
+166,FreshFizz Beverages 1L,Beverages,FreshFizz,1L,79.61,69.79,12.33,150,Medium
+167,NaturalBurst Beverages 500ml,Beverages,NaturalBurst,500ml,65.05,57.83,11.1,150,Medium
+168,NaturalBurst Beverages 500ml,Beverages,NaturalBurst,500ml,50.54,44.3,12.35,150,Fast
+169,NaturalBurst Beverages 1L,Beverages,NaturalBurst,1L,29.92,25.93,13.34,150,Fast
+170,NaturalBurst Beverages 250ml,Beverages,NaturalBurst,250ml,46.46,42.48,8.57,150,Slow
